@@ -1,6 +1,3 @@
-# Nathan Yuan
-# HW3 Q1
-
 # import the required packages here
 import numpy as np
 
